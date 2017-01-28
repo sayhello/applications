@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   template: `
     <div class="app">
       Hello! {{title}}
+      <button>Hello</button>
     </div>
   `
 })
